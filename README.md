@@ -8,6 +8,7 @@ claimed to possess sensitive information
 
 ### Skills Learned
 
+- Development of critical thinking and problem-solving skills in cybersecurity.
 - Incident Detection and Analysis: Develop the ability to detect signs of a security breach and analyze how the attacker gained access. 
 - Proficiency in analyzing and interpreting network logs.
 - Vulnerability Management and Patching: Learn how to identify, assess, and address vulnerabilities within systems and applications.
